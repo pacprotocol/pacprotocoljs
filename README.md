@@ -1,8 +1,8 @@
-# Dashcore Library
+# PAC Protocol JS Library
 
 [![NPM Version](https://img.shields.io/npm/v/@pacprotocol/pacprotocoljs)](https://www.npmjs.com/package/@pacprotocol/pacprotocoljs)
-[![Build Status](https://img.shields.io/travis/com/dashevo/dashcore-lib)](https://travis-ci.org/dashevo/dashcore-lib)
-[![Release Date](https://img.shields.io/github/release-date/dashevo/dashcore-lib)](https://github.com/dashevo/dashcore-lib/releases/latest)
+[![Build Status](https://img.shields.io/travis/com/pacprotocol/pacprotocoljs)](https://travis-ci.org/pacprotocol/pacprotocoljs)
+[![Release Date](https://img.shields.io/github/release-date/pacprotocol/pacprotocoljs)](https://github.com/pacprotocol/pacprotocoljs/releases/latest)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
 
 A pure and powerful JavaScript PAC Protocol library.
@@ -65,7 +65,7 @@ Some functionality is implemented as a module that can be installed separately:
 ### Development & Tests
 
 ```sh
-git clone https://github.com/dashevo/dashcore-lib
+git clone https://github.com/pacprotocol/pacprotocoljs
 cd dashcore-lib
 npm install
 ```
@@ -112,7 +112,7 @@ Some examples can be found [here](docs/examples.md), below is a list of direct l
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/dashevo/dashcore-lib/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/pacprotocol/pacprotocoljs/blob/master/CONTRIBUTING.md) file.
 
 ## License
 
