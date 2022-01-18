@@ -4,6 +4,10 @@
   "description": "A pure and powerful JavaScript PAC Protocol library.",
   "author": "PAC Protocol Core Group, Inc. <support@pacprotocol.com>",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
