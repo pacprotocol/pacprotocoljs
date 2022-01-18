@@ -1,6 +1,6 @@
 # Dashcore Library
 
-[![NPM Version](https://img.shields.io/npm/v/@dashevo/dashcore-lib)](https://www.npmjs.com/package/@dashevo/dashcore-lib)
+[![NPM Version](https://img.shields.io/npm/v/@pacprotocol/pacprotocoljs)](https://www.npmjs.com/package/@pacprotocol/pacprotocoljs)
 [![Build Status](https://img.shields.io/travis/com/dashevo/dashcore-lib)](https://travis-ci.org/dashevo/dashcore-lib)
 [![Release Date](https://img.shields.io/github/release-date/dashevo/dashcore-lib)](https://github.com/dashevo/dashcore-lib/releases/latest)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
@@ -21,7 +21,7 @@ PAC Protocol is a powerful new peer-to-peer platform for the next generation of 
 ### NodeJS
 
 ```
-npm install @dashevo/dashcore-lib
+npm install @pacprotocol/pacprotocoljs
 ```
 
 ### Browser
