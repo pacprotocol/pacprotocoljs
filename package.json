@@ -1,6 +1,6 @@
 {
   "name": "@pacprotocol/pacprotocoljs",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "description": "A pure and powerful JavaScript PAC Protocol library.",
   "author": "PAC Global Holdings LLC. <support@pacprotocol.com>",
   "main": "index.js",
