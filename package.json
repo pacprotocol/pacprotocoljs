@@ -106,11 +106,9 @@
   },
   "dependencies": {
     "@dashevo/x11-hash-js": "^1.0.2",
-    "@liutianv1/bls-signatures": "^0.0.1",
     "@types/node": "^12.12.47",
     "axios": "^0.24.0",
     "bloom-filter": "^0.2.0",
-    "bls-signatures": "^0.2.5",
     "bn.js": "=4.11.8",
     "bs58": "=4.0.1",
     "elliptic": "=6.4.1",

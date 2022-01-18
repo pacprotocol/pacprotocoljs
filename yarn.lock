@@ -109,11 +109,6 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.2.tgz#30aa825f11d438671d585bd44e7fd564535fc210"
   integrity sha512-82cpyJyKRoQoRi+14ibCeGPu0CwypgtBAdBhq1WfvagpCZNKqwXbKwXllYSMG91DhmG4jt9gN8eP6lGOtozuaw==
 
-"@liutianv1/bls-signatures@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@liutianv1/bls-signatures/-/bls-signatures-0.0.1.tgz#e926da0ac820447da6e3b940ff889d18a6c3fa3d"
-  integrity sha512-D5evhMKiZjLvg2LWyoCsTBMTB9C/7W6SMcJ5P/1oNIv4w7ezreIReFOBCbGedc/nyvewfZEqEj5EyMQu1OfqjQ==
-
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
@@ -712,11 +707,6 @@ bloom-filter@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/bloom-filter/-/bloom-filter-0.2.0.tgz#84d63bbf9172d8303e64c1ff16eb9dbf33a981a3"
   integrity sha1-hNY7v5Fy2DA+ZMH/FuudvzOpgaM=
-
-bls-signatures@^0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/bls-signatures/-/bls-signatures-0.2.5.tgz#7c285e3cb535f279d842e53d1f6e0c8ceda793d1"
-  integrity sha512-5TzQNCtR4zWE4lM08EOMIT8l3b4h8g5LNKu50fUYP1PnupaLGSLklAcTto4lnH7VXpyhsar+74L9wNJII4E/4Q==
 
 bluebird@^3.5.5:
   version "3.7.2"
