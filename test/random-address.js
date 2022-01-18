@@ -13,7 +13,6 @@ var PublicKey = bitcore.PublicKey;
 var PrivateKey = bitcore.PrivateKey;
 var Address = bitcore.Address;
 var Networks = bitcore.Networks;
-const LoadBLS = require('@liutianv1/bls-signatures');
 const { randomBytes } = require("crypto");
 
 const Payload = bitcore.Transaction.Payload;
@@ -35,19 +34,19 @@ describe('Generate Addresses', function() {
 
 describe('BLS Keypair', () => {
     it('should generate BLS Keypair', async function () {
-        const BLS = await LoadBLS();
-        const seed = Uint8Array.from(crypto.randomBytes(32))
-        const sk = BLS.AugSchemeMPL.key_gen(seed);
-        const pk = sk.get_g1();
-       // const publicKey = BLS.PublicKey.fromBytes(privateKey);
-        console.log(sk);
-        console.log(pk);
-        console.log(sk.serialize());
-        console.log(pk.serialize());
-        console.log(Buffer.from(sk.serialize()).toString("hex"));
-        console.log(Buffer.from(pk.serialize()).toString("hex"));
-       // console.log(publicKey);
-        //publicKey.should.equal("a7e75af9dd4d868a41ad2f5a5b021d653e31084261724fb40ae2f1b1c31c778d3b9464502d599cf6720723ec5c68b59d");
+       //const BLS = await LoadBLS();
+       //const seed = Uint8Array.from(crypto.randomBytes(32))
+       //const sk = BLS.AugSchemeMPL.key_gen(seed);
+       //const pk = sk.get_g1();
+       /// const publicKey = BLS.PublicKey.fromBytes(privateKey);
+       //console.log(sk);
+       //console.log(pk);
+       //console.log(sk.serialize());
+       //console.log(pk.serialize());
+       //console.log(Buffer.from(sk.serialize()).toString("hex"));
+       //console.log(Buffer.from(pk.serialize()).toString("hex"));
+       /// console.log(publicKey);
+       ////publicKey.should.equal("a7e75af9dd4d868a41ad2f5a5b021d653e31084261724fb40ae2f1b1c31c778d3b9464502d599cf6720723ec5c68b59d");
 
     })
 });
